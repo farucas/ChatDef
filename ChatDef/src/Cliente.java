@@ -23,6 +23,7 @@ public class Cliente {
             this.nome = construtor.next();
             System.out.println(this.nome);
             construtor.close();
+            executa();
                 
                 
 	}
